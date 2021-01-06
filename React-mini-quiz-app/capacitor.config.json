@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.gsmartquiz",
+  "appName": "gsmartquiz",
+  "bundleWebRuntime": false,
+  "npmClient": "build",
+  "webDir": "build",
+  "cordova": {}
+}

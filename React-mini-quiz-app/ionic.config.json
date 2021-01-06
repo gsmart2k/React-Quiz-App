@@ -1,0 +1,7 @@
+{
+  "name": "gsmartquiz",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

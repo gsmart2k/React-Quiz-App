@@ -1,0 +1,37 @@
+.quiz-head {
+  background: #232323;
+  padding: 1em;
+  border-radius: 1em;
+}
+.quiz-head-text {
+  color: white;
+}
+body {
+  padding: 10em;
+}
+.contain {
+  border: 2px solid black;
+  border-radius: 1em;
+  padding: 0.5em;
+  height: 58em;
+}
+.questionBox {
+  border: solid 2px #000;
+  padding: 1em;
+  margin: 2em;
+}
+.score {
+  color: red;
+  font-weight: bold;
+  text-align: center;
+  font-size: 6em;
+  margin-top: 3em;
+}
+.pl-again {
+  margin: 0 auto;
+  text-align: center;
+  background: blue;
+  padding: 1em;
+  color: white;
+  border-radius: 1em;
+}
